@@ -1,0 +1,6 @@
+streamlit
+boto3
+langchain
+streamlit-cognito-auth
+langchain_community
+langchain-aws
