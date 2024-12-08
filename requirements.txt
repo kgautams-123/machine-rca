@@ -4,3 +4,4 @@ langchain
 streamlit-cognito-auth
 langchain_community
 langchain-aws
+plotly

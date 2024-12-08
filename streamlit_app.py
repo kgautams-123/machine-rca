@@ -28,7 +28,6 @@ st.markdown("<h1 class='main-header'>Machine Data Analysis 💬 🧠</h1>", unsa
 SAMPLE_QUESTIONS = [
     "Select a sample question",
     "Which 5 machine has got the highest dry cycle time??",
-    "How did the dry cycle times for SKUs change between January and February 2024?",
     "What is the average dry cycle time for SKUs cured using machines from HF supplier?",
     "Can you provide a list of SKUs that used steam as the curing medium in February 2024?",
     "Which five SKUs had the longest total curing time in February 2024?",
